@@ -3,6 +3,7 @@
 Gampangnya ini adalah suatu program yg menggunakan jaringan blockchain yang dikontrol dengan barisan kode
 
 Solidity = lebih mirip JS
+
 Vyper = lebih mirip Python
 
 ### Gas fee
