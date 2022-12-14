@@ -1,7 +1,7 @@
 --------------------------
 **Cheat Belajar Cepat**
 --------------------------
-Metode ini biasa saya pakai saat bermain CTF / untuk belajar sebuah teknologi baru semisal blockchain, akhir2 ini saya tertarik teknologi ini karena mulai dari loker - kompetisi CTF arahnya sudah banyak yg mengangkat teknologi ini :D 
+Metode ini biasa saya pakai saat bermain CTF / untuk belajar sebuah teknologi baru semisal blockchain, akhir2 ini saya tertarik teknologi ini karena mulai dari loker - kompetisi CTF arahnya sudah banyak yg mengangkat teknologi ini 😊
 
 
 Ok, cheat nya adalah belajar-nya langsung pada goal yang ingin dituju (kasus). Nah kalau temen2 dsni sudah ada yg ambil MK Sistem Pakar mungkin tyduck asing lgi dengan metode forward chaining dan backward chaining, nah metode backward chaining ini fungsinya mengatasi masalah berdasarkan kejadian yang sudah ada.
