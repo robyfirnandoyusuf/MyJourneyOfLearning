@@ -1,0 +1,2 @@
+*.joblib filter=lfs diff=lfs merge=lfs -text
+Machine[[:space:]]Learning/KNN/knn22_mnist_model.joblib filter=lfs diff=lfs merge=lfs -text
