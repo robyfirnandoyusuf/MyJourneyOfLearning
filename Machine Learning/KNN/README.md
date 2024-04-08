@@ -4,3 +4,5 @@ Google collab: https://colab.research.google.com/drive/1faBNzLcBbQahCT3ydPutHC1V
 Dataset: MNIST dataset
 
 Algorithm: K-NN
+
+Framework: Streamlit
