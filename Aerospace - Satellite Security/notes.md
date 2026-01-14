@@ -55,6 +55,7 @@ Fungsi:
 - Power distribution
 
 ### Resources:
-https://github.com/deptofdefense/hack-a-sat-library
-https://forum.defcon.org/node/231910 
-https://hackasat.com/moonlighter/ 
+https://github.com/deptofdefense/hack-a-sat-library<br>
+https://forum.defcon.org/node/231910 <br>
+https://hackasat.com/moonlighter/ <br>
+
